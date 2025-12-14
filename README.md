@@ -75,6 +75,8 @@ When I’m not coding, you’ll find me:
 > 💡 *“First, solve the problem. Then, write the code.” – John Johnson*  
 > 🐒 *Sometimes, you just gotta dance like nobody’s watching… especially after a successful `git --force push`.*
 
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" alt="Dancing monkey" width="100%" max-width="600px"/>
 </p>
