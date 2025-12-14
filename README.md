@@ -6,9 +6,10 @@
 <h1 align="center">I'm Samue Hermida Gregores</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3B6Z3B3aWZxajZ0eXZ0dGQ5d3FvZnZ5dHZvY2x5cWJzZnF2ZjZ3dSZlcD0xJnNkaz1nMg/e2vBLT0fL2w76/giphy.gif" alt="Dancing monkey" width="100%" max-width="500px" />
+  <a href="https://github.com/shermidagre">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=500&color=4361ee&center=true&vCenter=true&width=600&lines=Second-year+DAM+student;Heading+to+Dublin+for+internships;Building+with+Kotlin%2C+Java%2C+Python;APIs+%7C+Docker+%7C+Spring+Boot" alt="Typing SVG" />
+  </a>
 </p>
-
 ---
 
 ### 🧑‍💻 A little about me
@@ -63,14 +64,19 @@ When I’m not coding, you’ll find me:
 
 ---
 
+
 ### 📫 Get in touch
 
-- Email: **samue@proton.me**  
+- Email: **shermidagre@gmail.com**  
 - GitHub: [@shermidagre](https://github.com/shermidagre)
 
 > 🇪🇸 *Programador español, Spanish developer*  
 > 💡 *“First, solve the problem. Then, write the code.” – John Johnson*  
 > 🐒 *Sometimes, you just gotta dance like nobody’s watching… especially after a successful `git --force push`.*
+
+<p align="center">
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3B6Z3B3aWZxajZ0eXZ0dGQ5d3FvZnZ5dHZvY2x5cWJzZnF2ZjZ3dSZlcD0xJnNkaz1nMg/e2vBLT0fL2w76/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fusagif.com%2Fes%2Fgifs-de-mono-gratis%2F%3Fsrsltid%3DAfmBOopcWiLhXN_bGuNg4WbN8JLG5R-3eHx4MXtT0ssSR0TSqP1PA_aH&psig=AOvVaw05He3h3sK06gkg0m5Ony8C&ust=1765804666073000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiZypGVvZEDFQAAAAAdAAAAABAE)" alt="Dancing monkey" width="100%" max-width="500px" />
+</p>
 
 <!---
 shermidagre/shermidagre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
