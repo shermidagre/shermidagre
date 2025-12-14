@@ -47,18 +47,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shermidagre&show_icons=true&theme=github_dark&border_radius=10" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shermidagre&theme=github_dark&border_radius=10" width="60%" />
-</p>
-
----
-
 > 🇪🇸 *Estudiante español aprendiendo en público.*  
 > 🌍 *Code in English - Spanish.*
 <!---
