@@ -1,9 +1,9 @@
 <!-- 
   Profile README for @shermidagre 
-  Clean • Focused • Tech-oriented
+  Clean • Honest • Tech-focused
 -->
 
-<h1 align="center">👋 I'm Samuel</h1>
+<h1 align="center">I'm Samuel Hermida Gregores</h1>
 <h3 align="center">DAM Student | Future Intern in Dublin 🇮🇪</h3>
 
 <p align="center">
@@ -19,6 +19,7 @@
 - 🇪🇸 Spanish student in the **second year of DAM** (Multiplatform Application Development)  
 - ✈️ Preparing for **professional internships in Dublin** (2026)  
 - 💻 Passionate about **backend development**, **APIs**, and **clean code**  
+
 ---
 
 ### 🛠️ Technologies & Tools
@@ -46,11 +47,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shermidagre&show_icons=true&theme=github_dark&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shermidagre&layout=compact&theme=github_dark&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shermidagre&show_icons=true&theme=github_dark&border_radius=10" width="60%" />
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 ---
 
 > 🇪🇸 *Estudiante español aprendiendo en público.*  
-> 🌍 *Code in English, dreams in Dublin.*
+> 🌍 *Code in English - Spanish.*
 <!---
 shermidagre/shermidagre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
