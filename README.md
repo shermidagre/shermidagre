@@ -1,117 +1,138 @@
-<!-- 
-  Profile README for @shermidagre 
-  Clean • Honest • Tech-focused
--->
+<div align="center">
 
-<h1 align="center">I'm Samuel Hermida Gregores</h1>
+<!-- ANIMATED BANNER -->
+<a href="https://github.com/shermidagre">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-light.svg" width="960" alt="Samuel Hermida Gregores — Developer">
+  </picture>
+</a>
 
-<p align="center">
-  <a href="[https://github.com/shermidagre](https://github.com/shermidagre)">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=500&color=4361ee&center=true&vCenter=true&width=600&lines=Autonomous+Developer+%26+Learner;Aspiring+Full+Stack+with+AI+%26+Automations;Building+with+Kotlin%2C+Java%2C+Python;Spring+Boot+%7C+Docker+%7C+APIs](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=500&color=4361ee&center=true&vCenter=true&width=600&lines=Autonomous+Developer+%26+Learner;Aspiring+Full+Stack+with+AI+%26+Automations;Building+with+Kotlin%2C+Java%2C+Python;Spring+Boot+%7C+Docker+%7C+APIs)" alt="Typing SVG" />
-  </a>
-</p>
+<br>
 
-```yaml
-profile:
-  subject: Samuel Hermida Gregores
-  role: Developer & Autonomous Learner
-  origin: Spain
-  focus: Full Stack • AI Integration • Automations
-  status: Learning & Building Projects
-  toolchain: Kotlin • Java • Python • Spring Boot • Docker
+<a href="https://github.com/shermidagre">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2800&amp;pause=900&amp;color=E8590C&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Samuel+Hermida+Gregores+%E2%80%94+Developer%3BFull+Stack+%C2%B7+AI+%C2%B7+Automation%3BKotlin+%C2%B7+Java+%C2%B7+Python+%C2%B7+Spring+Boot%3BAprender+%C2%B7+Construir+%C2%B7+Automatizar%3BLearn+%C2%B7+Build+%C2%B7+Automate" alt="Samuel Hermida Gregores — Developer">
+</a>
 
-stack:
-  backend: Kotlin • Java • Spring Boot • REST APIs
-  database: PostgreSQL • SQLite
-  devops_tools: Docker • Linux • Git • Postman
-  exploring: AI Workflows • Full Stack Development
+<img src="https://komarev.com/ghpvc/?username=shermidagre&amp;style=flat&amp;color=ff8a3d&amp;label=profile+views" alt="profile views">
 
-contact:
-  linkedin: /in/samuel-hermida-a3927a414
-  github: shermidagre
-  email: shermidagre@gmail.com
-```
+</div>
 
 ---
 
-### 🧑‍💻 A little about me
+## `$ whoami`
 
-I’m a software developer from Spain who recently finished my DAM (Multiplatform Application Development) studies and my time in Dublin. Currently, I am learning autonomously with a clear goal: **becoming a Full Stack Developer specialized in AI and automation**.
+<p align="center">
+  <img src="assets/whoami-terminal.svg" width="960" alt="Warm terminal card with Samuel's profile: Developer & Learner based in Spain">
+</p>
+
+<br>
+
+## `$ cat about.md`
+
+🇬🇧 **EN** — Software developer from Spain. I recently finished my **DAM** (Multiplatform Application Development) studies and my time in Dublin. Right now I keep learning autonomously with one clear goal: becoming a **Full Stack developer specialised in AI and automation**.
+
+🇪🇸 **ES** — Desarrollador de software español. Terminé mis estudios de **DAM** (Desarrollo de Aplicaciones Multiplataforma) y mi etapa en Dublín. Ahora sigo aprendiendo en autonomía con un objetivo claro: convertirme en **desarrollador Full Stack especializado en IA y automatización**.
 
 I believe software should be:
-- ✅ **Clear** – easy to read, even months later  
-- ✅ **Reliable** – well-tested and documented  
-- ✅ **Purposeful** – solving real problems, not just writing code
 
-When I’m not coding, you’ll find me:
-- 🎧 Listening to synthwave or lo-fi beats  
-- 📚 Reading about system design, AI trends, or clean architecture  
-- 🏃‍♂️ Running and training to clear my mind (and avoid `StackOverflow` dependency 😉)
+- ✅ **Clear** — easy to read, even months later
+- ✅ **Reliable** — well tested and documented
+- ✅ **Purposeful** — solving real problems, not just writing code
+
+<br>
+
+<div align="center">
+
+## `$ cat tech-stack.yaml`
+
+<table border="1" cellpadding="14" bgcolor="#1A1109">
+  <thead>
+    <tr>
+      <th colspan="2" align="left"><code>shermidagre:~$ cat tech-stack.yaml</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top"><code>├─ ☕ languages:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=kotlin,java,python,js,html,css" alt="Kotlin, Java, Python, JavaScript, HTML y CSS"><br>
+        <sub><code>Kotlin · Java · Python · JavaScript · HTML · CSS</code></sub>
+      </td>
+      <td width="50%" valign="top"><code>├─ ⚙ backend_apis:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=spring,swagger,docker" alt="Spring Boot, Swagger y Docker"><br>
+        <sub><code>Spring Boot · Swagger · Docker</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ▣ databases:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,sqlite" alt="PostgreSQL y SQLite"><br>
+        <sub><code>PostgreSQL · SQLite</code></sub>
+      </td>
+      <td valign="top"><code>╰─ ✓ tools_os:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=git,linux,postman" alt="Git, Linux y Postman"><br>
+        <sub><code>Git · Linux · Postman</code></sub>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2"><code>status: building&nbsp;&nbsp;·&nbsp;&nbsp;mode: learning</code></td>
+    </tr>
+  </tfoot>
+</table>
+
+</div>
 
 ---
 
-### 🛠️ What I work with
-
-#### 💬 Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-#### ⚙️ Backend & APIs
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-#### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-0066A4?logo=pgadmin&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
-
-#### 🔧 Tools & OS
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-
----
-
-### 🌱 Currently learning & exploring
-
-- 🤖 **AI Integration & Automation workflows** to build smarter systems
-- ✨ **Spring Boot best practices** (security, validation, error handling)  
-- 🐳 **Dockerizing applications** for consistent deployments  
-- 🌐 **RESTful API design** following industry standards  
-
----
-
-### 📊 GitHub Stats
+## `$ ./skills --report`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shermidagre&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shermidagre&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+    <img src="assets/radar-light.svg" width="390" alt="Full stack skill radar">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+    <img src="assets/radar-langs-light.svg" width="370" alt="Language stack radar">
+  </picture>
 </p>
+
+<p align="center"><sub><code>signals: skill_radar · language_stack · status: growing</code></sub></p>
 
 ---
 
-### 📫 Get in touch
+## `$ cat learning.md`
 
-- Email: **shermidagre@gmail.com**  
-- LinkedIn: [Samuel Hermida Gregores](https://www.linkedin.com/in/samuel-hermida-a3927a414)  
-- GitHub: [@shermidagre](https://github.com/shermidagre)
-
-> 🇪🇸 *Programador español, Spanish developer*  
-> 💡 *“First, solve the problem. Then, write the code.” – John Johnson*  
-> 🐒 *Sometimes, you just gotta dance like nobody’s watching… especially after a successful `git --force push`.*
+- 🤖 **AI Integration & Automation** — build smarter workflows
+- ✨ **Spring Boot best practices** — security, validation, error handling
+- 🐳 **Docker** — consistent, reproducible deployments
+- 🌐 **RESTful API design** — following industry standards
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" alt="Dancing monkey" width="100%" max-width="600px"/>
-</p>
+## `$ connect --socials`
 
-<!---
-shermidagre/shermidagre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+<a href="https://www.linkedin.com/in/samuel-hermida-a3927a414">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
+</a>&nbsp;&nbsp;
+<a href="mailto:shermidagre@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/shermidagre">
+  <img src="https://img.shields.io/badge/GitHub-ff8a3d?style=for-the-badge&amp;logo=github&amp;logoColor=1a1109" alt="GitHub">
+</a>
+
+</div>
+
+<br>
+<br>
+
+<div align="center">
+<sub>Hecho con 🧡 desde España · Made with 🧡 from Spain · @shermidagre</sub>
+</div>

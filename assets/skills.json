@@ -1,0 +1,30 @@
+{
+  "title": "Full Stack Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    {
+      "label": "Backend (Kotlin/Java)",
+      "value": 85
+    },
+    {
+      "label": "Spring Boot & APIs",
+      "value": 80
+    },
+    {
+      "label": "Databases (SQL)",
+      "value": 78
+    },
+    {
+      "label": "Docker & DevOps",
+      "value": 70
+    },
+    {
+      "label": "Frontend",
+      "value": 65
+    },
+    {
+      "label": "AI & Automation",
+      "value": 60
+    }
+  ]
+}

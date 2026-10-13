@@ -1,0 +1,26 @@
+{
+  "title": "Language Stack",
+  "_comment": "Values 0-100. Edit these and the Charts workflow redraws it.",
+  "axes": [
+    {
+      "label": "Kotlin",
+      "value": 85
+    },
+    {
+      "label": "Java",
+      "value": 80
+    },
+    {
+      "label": "JavaScript",
+      "value": 62
+    },
+    {
+      "label": "Python",
+      "value": 70
+    },
+    {
+      "label": "SQL",
+      "value": 75
+    }
+  ]
+}
