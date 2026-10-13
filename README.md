@@ -3,11 +3,11 @@
   Clean • Honest • Tech-focused
 -->
 
-<h1 align="center">I'm Samue Hermida Gregores</h1>
+<h1 align="center">I'm Samuel Hermida Gregores</h1>
 
 <p align="center">
   <a href="https://github.com/shermidagre">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=500&color=4361ee&center=true&vCenter=true&width=600&lines=Second-year+DAM+student;Heading+to+Dublin+for+internships;Building+with+Kotlin%2C+Java%2C+Python;APIs+%7C+Docker+%7C+Spring+Boot" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=500&color=4361ee&center=true&vCenter=true&width=600&lines=Autonomous+Developer+%26+Learner;Aspiring+Full+Stack+with+AI+%26+Automations;Building+with+Kotlin%2C+Java%2C+Python;Spring+Boot+%7C+Docker+%7C+APIs" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 
 ### 🧑‍💻 A little about me
 
-I’m a **second-year DAM (Multiplatform Application Development)** student from Spain, currently sharpening my backend skills while preparing for an exciting journey: **professional internships in Dublin in 2026**.
+I’m a software developer from Spain who recently finished my DAM (Multiplatform Application Development) studies and my time in Dublin. Currently, I am learning autonomously with a clear goal: **becoming a Full Stack Developer specialized in AI and automation**.
 
 I believe software should be:
 - ✅ **Clear** – easy to read, even months later  
@@ -24,7 +24,7 @@ I believe software should be:
 
 When I’m not coding, you’ll find me:
 - 🎧 Listening to synthwave or lo-fi beats  
-- 📚 Reading about system design or clean architecture  
+- 📚 Reading about system design, AI trends, or clean architecture  
 - 🏃‍♂️ Running and training to clear my mind (and avoid `StackOverflow` dependency 😉)
 
 ---
@@ -56,19 +56,28 @@ When I’m not coding, you’ll find me:
 
 ---
 
-### 🌱 Currently learning
+### 🌱 Currently learning & exploring
 
+- 🤖 **AI Integration & Automation workflows** to build smarter systems
 - ✨ **Spring Boot best practices** (security, validation, error handling)  
 - 🐳 **Dockerizing applications** for consistent deployments  
 - 🌐 **RESTful API design** following industry standards  
-- 📏 **Writing clean, testable code** — because legacy code haunts you at 3 a.m.
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shermidagre&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shermidagre&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 
 ### 📫 Get in touch
 
 - Email: **shermidagre@gmail.com**  
+- LinkedIn: [Samuel Hermida Gregores](https://www.linkedin.com/in/samuel-hermida-a3927a414)  
 - GitHub: [@shermidagre](https://github.com/shermidagre)
 
 > 🇪🇸 *Programador español, Spanish developer*  
